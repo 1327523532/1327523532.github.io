@@ -16,11 +16,7 @@
 title: Andy's Technical Blog
 email: 1327523532@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technology：
-  Tools：
-  Platform：
-  Arch Design：
-  Language & Framework：
+  Technology、Tools、Platform、Arch Design、Language & Framework
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lyf
