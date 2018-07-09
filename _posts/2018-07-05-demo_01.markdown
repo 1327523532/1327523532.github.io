@@ -3,6 +3,9 @@ layout: post
 title:  "New Retail"
 date:   2018-07-05 17:50:58 +0800
 categories: jekyll update
+author: liyf23
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: demo test
 ---
 
 产品介绍
