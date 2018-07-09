@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: '李云峰的独立博客'
-description: '昵称风雨无阻，千禧一代，后端开发者，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+title: '李云峰的个人博客'
+description: '昵称风雨无阻，千禧一代，后端开发者，热爱技术&设计。'
 keyword: '李云峰, 李云峰的独立博客, 李云峰的博客, Java, 后端开发, 后端博客, Linux, 微服务, 架构, 设计'
 url: 'http://liaokeyu.com' # your host
 

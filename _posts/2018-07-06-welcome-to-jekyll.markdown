@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2018-07-06
 categories: jekyll update
 author: liyf23
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'http://pic.616pic.com/ys_b_img/00/03/60/Kt6QwnlaEu.jpg'
 tags: JAva Python
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

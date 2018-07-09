@@ -4,7 +4,7 @@ title:  "New Retail"
 date:   2018-07-05
 categories: jekyll update
 author: liyf23
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: '../assets/img/hero.jpg'
 tags: demo test
 ---
 
