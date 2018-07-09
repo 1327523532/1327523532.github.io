@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-07-06 17:50:58 +0800
+date:   2018-07-06
 categories: jekyll update
 author: liyf23
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
