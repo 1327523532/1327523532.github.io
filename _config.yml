@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Andy 风雨无阻 !
+title: 技术成就未来 !
 name: Andy
-email: andy@163.com
+email: liyf23@163.com
 location: Beijing,China
 company: Lenovo
 company_url: http://www.gfi.fr/en/
@@ -61,11 +61,15 @@ navs:
 
   -
     href: /blog
-    label: Blog
+    label: SpringCloud
+
+  -
+    href: /blog
+    label: Blogs
 
   -
     href: /bookmark
-    label: Bookmark
+    label: Link
 
   -
     href: /about
@@ -84,4 +88,4 @@ analytics :
 # For about.html. Fell free to create your own!
 skill_software_keywords: [Java, C, C++,Python, MySQL,Redis,MongoDB,FastDFS,Mycayt,Design Patterns]
 skill_j2ee_keywords: [Springboot,Springcloud,Spring, Struct, Hibernet, MyBatis]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS,, Boostrap]
