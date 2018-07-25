@@ -61,11 +61,7 @@ navs:
 
   -
     href: /blog
-    label: SpringCloud
-
-  -
-    href: /blog
-    label: Blogs
+    label: Blog
 
   -
     href: /bookmark
