@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SpringCloud Eureka
+title: SpringCloud-Eureka
 category: SpringCloud
 tags: [java, SpringCloud]
 ---
