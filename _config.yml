@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 技术成就未来!
+title: 技术成就梦想 !
 name: Andy
-email: liyf23@163.com
+email: liyf23@lenovo.com
 location: Beijing,China
-company: Lenovo
+company: lenovo
 company_url: http://www.gfi.fr/en/
 github_url: https://github.com
 description: This is personnel website of Andy
 favicon: favicon.png # Image must be in assets/images
 
-url: http://1327523532.github.io # the base hostname & protocol for your site
+url: http://dongchuan.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -50,6 +50,7 @@ paginate: 10
 paginate_path: 'page:num'
 
 # Navigation
+navs:
   -
     href: /
     label: Home
@@ -81,6 +82,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++,Python, MySQL,Redis,MongoDB,FastDFS,Mycayt,Design Patterns]
-skill_j2ee_keywords: [Springboot,Springcloud,Spring, Struct, Hibernet, MyBatis]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS,, Boostrap]
+skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
+skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
+skill_mobile_app_keywords: [Android, Sketch UI Desgin]
