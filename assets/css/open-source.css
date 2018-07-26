@@ -1,13 +1,15 @@
 .card-image {
-    display: table;
+    display: flex;
     height: 120px;
     width: 100%;
+    overflow-x: hidden;
     border-radius: 4px;
 }
 
 .card-image .card-image-cell {
-    display: table-cell;
-    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
 }
 
 .card-image h3 {
@@ -26,6 +28,7 @@
 .jumbotron h1, .jumbotron .meta-info {
     color: #fff;
 }
+.icon-logo{fill: #000;}
 
 .card .thumbnail {
     border: 1px solid rgba(0,0,0,0.075);
