@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All My Blogs
+title: 纯洁的微笑-博客推荐
 titlebar: Blog
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Take notes about everything new
 menu: blog
@@ -132,5 +132,3 @@ permalink: /blog
 - [spring ioc](http://www.cnblogs.com/ityouknow/p/5311360.html)
 - [spring 多数据源一致性事务方案](http://www.cnblogs.com/ityouknow/p/4977136.html)
 
-
-{% include blog-page.html %}

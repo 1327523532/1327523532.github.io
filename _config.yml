@@ -68,10 +68,6 @@ navs:
     label: ELK
 
   -
-    href: /blog.html
-    label: Blog
-
-  -
     href: /archives.html
     label: Archives
 
@@ -94,6 +90,14 @@ labels:
   -
     href: /jvm.html
     name: JVM
+
+  -
+    href: /timeline.html
+    name: Timeline
+
+  -
+    href: /blog.html
+    name: 推荐
 
   -
     href: /life.html
