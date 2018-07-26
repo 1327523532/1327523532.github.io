@@ -7,13 +7,16 @@
 
 # Site settings
 title: 技术成就梦想 !
+subtitle: 分享使人快乐
 name: Andy
+description: This is personnel website of Andy
+keywords: Spring,Spring Boot,Spring Cloud,MongoDB,架构,大数据,FastDFS,开发者,Developer,Java,Python
 email: liyf23@163.com
 location: Beijing,China
 company: Cloud
 company_url: http://www.gfi.fr/en/
 github_url: https://github.com
-description: This is personnel website of Andy
+encoding: "utf-8"
 favicon: favicon.png # Image must be in assets/images
 
 url: https://1327523532.github.io # the base hostname & protocol for your site
@@ -25,6 +28,8 @@ gems:
   - rouge
   - kramdown
   - jekyll-github-metadata
+  - jekyll-octicons
+
 
 # Build settings
 markdown: kramdown
@@ -41,6 +46,7 @@ defaults: []
 kramdown:
   input: GFM
   enable_coderay: true
+  syntax_highlighter: rouge
 
 # Disque
 disque: 1327523532.github.io
