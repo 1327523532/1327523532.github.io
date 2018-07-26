@@ -43,7 +43,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: https://1327523532.github.io
+disque: 1327523532.github.io
 
 # Pagination
 paginate: 10
