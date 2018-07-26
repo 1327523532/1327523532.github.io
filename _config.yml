@@ -67,6 +67,10 @@ navs:
     href: /elk.html
     label: ELK
 
+    -
+    href: /blog.html
+    label: Blog
+
   -
     href: /archives.html
     label: Archives
