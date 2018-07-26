@@ -76,8 +76,8 @@ navs:
     label: Archives
 
   -
-    heef: /open-source.html
-    lable: Open-Source
+    href: /open-source.html
+    label: Open-Source
 
   -
     href: /link.html
