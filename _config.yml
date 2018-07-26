@@ -20,11 +20,8 @@ encoding: "utf-8"
 favicon: favicon.png # Image must be in assets/images
 url: https://1327523532.github.io # the base hostname & protocol for your site
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: 1327523532.github.io
+github_url: https://github.com/1327523532
 
 ## Gem
 plugins:
@@ -77,6 +74,10 @@ navs:
   -
     href: /archives.html
     label: Archives
+
+  -
+    heef: /open-source.html
+    lable: Open-Source
 
   -
     href: /link.html
@@ -172,19 +173,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: liyf23
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: liyf23
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 61bfc53d957e74e78f8f_todo
+        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c_todo
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: liyf23
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 61bfc53d957e74e78f8f_todo
+    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c_todo
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
