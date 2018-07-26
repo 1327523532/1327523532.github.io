@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 技术成就梦想 !
+title: 风雨无阻
 subtitle: 分享使人快乐
-name: Andy
+name: 风雨无阻
 description: This is personnel website of Andy
 keywords: Spring,Spring Boot,Spring Cloud,MongoDB,大数据,FastDFS,开发者,Developer,Java,Python
 email: liyf23@163.com
@@ -66,10 +66,6 @@ navs:
   -
     href: /spring-boot.html
     label: Spring-Boot
-
-  -
-    href: /spring-cloud.html
-    label: Spring-Cloud
 
   -
     href: /archives.html
