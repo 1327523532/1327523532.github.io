@@ -17,7 +17,7 @@ company: Cloud
 company_url: http://www.gfi.fr/en/
 github_url: https://github.com
 encoding: "utf-8"
-favicon: favicon.png # Image must be in assets/images
+favicon: favicon.jpg # Image must be in assets/images
 url: https://1327523532.github.io # the base hostname & protocol for your site
 
 repository: 1327523532.github.io
