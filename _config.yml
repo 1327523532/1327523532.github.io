@@ -88,8 +88,8 @@ navs:
 labels:
 
   -
-    href: /share/2017/10/01/resource-sharing.html
-    name: 资源
+    href: /jvm.html
+    name: JVM
 
   -
     href: /life.html
