@@ -90,6 +90,10 @@ analytics :
   google :
       tracking_id : 'UA-72165600-1'
 
+# ---------------- #
+#       RSS        #
+# ---------------- #
+subscribe_rss: /feed.xml
 
 # For about.html. Fell free to create your own!
 skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
