@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: All My Blogs By Timeline
 titlebar: Blog
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Take notes about everything new
