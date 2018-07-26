@@ -15,4 +15,4 @@ keywords: 开始
 ## 2
 ## 3
 
-![扫码关注](https://1327523532.github.io/assets/images/andy.jpg)
+
