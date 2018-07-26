@@ -84,7 +84,7 @@ navs:
     label: About
 
 
-# labels. my blog key words
+# labels. my blog key words 按照专题聚合的文章
 labels:
 
   -
@@ -99,7 +99,7 @@ labels:
     href: /arch.html
     name: 架构
 
-# selected articles
+# selected articles 精选的主题
 classes:
 
   -
