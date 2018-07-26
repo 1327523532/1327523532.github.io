@@ -10,4 +10,4 @@ permalink: /elk
 keywords: ELK 教程,ELK 示例,ELK 学习,ELK 资源,ElasticSearch,Kibana,Logstash
 ---
 
-{% include ELK.html %}
+{% include elk.html %}
