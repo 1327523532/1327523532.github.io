@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Hello
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Hello World !
-menu: hello
+layout: post
+title: HEllo
+subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark useful libs - tools - books
+menu: Hello
 ---
 
 # 1
