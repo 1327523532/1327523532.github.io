@@ -70,6 +70,10 @@ navs:
     label: Blog
 
   -
+    href: /hello.html
+    label: Hello
+
+  -
     href: /bookmark
     label: Bookmark
 
