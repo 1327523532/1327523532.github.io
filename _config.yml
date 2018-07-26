@@ -67,9 +67,9 @@ navs:
     href: /bookmark
     label: Bookmark
 
-    -
-    href: /hello
-    label: Hello
+  -
+  href: /hello
+  label: Hello
 
   -
     href: /about
