@@ -8,15 +8,15 @@
 # Site settings
 title: 技术成就梦想 !
 name: Andy
-email: liyf23@lenovo.com
+email: liyf23@163.com
 location: Beijing,China
-company: lenovo
+company: Cloud
 company_url: http://www.gfi.fr/en/
 github_url: https://github.com
 description: This is personnel website of Andy
 favicon: favicon.png # Image must be in assets/images
 
-url: http://dongchuan.github.io # the base hostname & protocol for your site
+url: https://1327523532.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -43,7 +43,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: httpdongchuangithubio.disqus.com
+disque: https://1327523532.github.io
 
 # Pagination
 paginate: 10
@@ -66,6 +66,10 @@ navs:
   -
     href: /bookmark
     label: Bookmark
+
+    -
+    href: /hello
+    label: Hello
 
   -
     href: /about
