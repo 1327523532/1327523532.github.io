@@ -8,7 +8,6 @@ css: ['blog-page.css']
 permalink: /blog
 ---
 
-
 ## 实战互金
 
 - [百亿互金平台技术栈大起底](http://www.ityouknow.com/arch/2017/06/30/technology-stack.html)
@@ -133,3 +132,5 @@ permalink: /blog
 - [spring ioc](http://www.cnblogs.com/ityouknow/p/5311360.html)
 - [spring 多数据源一致性事务方案](http://www.cnblogs.com/ityouknow/p/4977136.html)
 
+
+{% include blog-page.html %}
