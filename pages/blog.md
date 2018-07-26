@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 纯洁的微笑-博客推荐
+title: 博客推荐-推荐网上的一些好的博客链接
 titlebar: Blog
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Take notes about everything new
 menu: blog
@@ -20,25 +20,6 @@ permalink: /blog
 - [如何做一个对账系统](http://www.ityouknow.com/pay/2017/06/13/reconciliation-system.html)  
 - [定时任务发展史(一)](http://www.ityouknow.com/java/2017/06/28/timer-task-develop-1.html)  
 - [定时任务发展史(二)](http://www.ityouknow.com/java/2017/06/29/timer-task-develop-2.html)  
-
-## 我的故事
-
-- [救人一命是怎样的体验？](http://www.ityouknow.com/life/2017/06/25/save-a-life.html)  
-- [老板和易筋经的故事](http://www.ityouknow.com/blog/2017/09/17/boss-anxious.html)  
-- [高中毕业，我想出去看看](http://www.ityouknow.com/life/2017/07/03/pingjing-life.html)  
-- [思维的局限](http://www.ityouknow.com/life/2017/05/19/Limitations-of-thinking.html)
-- [如何在微信公众号优雅的展示代码](http://www.ityouknow.com/other/2017/05/15/wechat-markdown.html)
-- [给你1000万你可以把生活过的更好吗？](http://www.ityouknow.com/life/2017/05/05/1000-and-life.html)
-- [你看那个人他像一条狗](http://www.ityouknow.com/career/2017/03/26/programmer-confused.html)
-- [那些年，我们租过的房子](http://www.ityouknow.com/life/2017/04/21/house-rented.html)
-- [六年程序生涯](http://www.ityouknow.com/%E5%85%AD%E5%B9%B4/2016/11/20/%E5%85%AD%E5%B9%B4%E7%A8%8B%E5%BA%8F%E7%94%9F%E6%B6%AF.html)
-- [程序员该用哪种姿势来理财](http://www.ityouknow.com/%E7%94%9F%E6%B4%BB/2016/05/08/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E7%94%A8%E5%93%AA%E7%A7%8D%E5%A7%BF%E5%8A%BF%E6%9D%A5%E7%90%86%E8%B4%A2.html)
-- [2016颠倒梦想,2017静心前行](http://www.ityouknow.com/%E7%94%9F%E6%B4%BB/2017/01/01/2016%E9%A2%A0%E5%80%92%E6%A2%A6%E6%83%B3,2017%E9%9D%99%E5%BF%83%E5%89%8D%E8%A1%8C.html)
-- [发现另外一个世界-网盘关闭背后](http://www.ityouknow.com/%E7%94%9F%E6%B4%BB/2017/01/18/%E5%8F%91%E7%8E%B0%E5%8F%A6%E5%A4%96%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C.html)
-- [我开通了微信公众号](http://www.ityouknow.com/life/2017/04/26/open-wechat.html)
-- [大案](http://www.ityouknow.com/life/2017/07/06/big-case.html)  
-- [谁说国产无好片](http://www.ityouknow.com/movie/2017/08/06/china-good-movie.html)  
-- [童年趣事](http://www.ityouknow.com/life/2017/07/29/childhood-fun.html)  
 
 
 ## spring boot 
