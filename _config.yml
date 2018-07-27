@@ -158,8 +158,8 @@ gitment:
     owner: 1327523532
     repo: blog-comments
     oauth:
-        client_id: ca8b216a26080467edbf_todo
-        client_secret: ddca9fa83261d0e801cd1b4d7fc220793760d442_todo
+        client_id: ca8b216a26080467edbf
+        client_secret: ddca9fa83261d0e801cd1b4d7fc220793760d442
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 1327523532
