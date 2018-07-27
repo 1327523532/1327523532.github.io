@@ -4,7 +4,7 @@
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category==category %}
+                {% if post.category==getCategory() %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -27,8 +27,9 @@
 
 </div>
 <script>
-    console.info("category------------------------------------start")
-
+    getCategory()
+    {
+        console.info("getCategory------------------------------------start")
         var name="category";
         var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
         var r = window.location.search.substr(1).match(reg);  //匹配目标参数
@@ -36,13 +37,18 @@
         if (r != null) 
         {
             category=unescape(r[2]);
+            return category;
         }
-        console.info(category)
+        else
+        {
+            return null;
+        }
+        console.info("解析到的category为:"+category)
+        console.info("getCategory------------------------------------end")
+    }
 
     $(document).ready(function(){
-         console.info("category ready------------------------------------start")
         // Enable bootstrap tooltip
         $("body").tooltip({ selector: '[data-toggle=tooltip]' });
     });
-    console.info("category------------------------------------end")
 </script>
