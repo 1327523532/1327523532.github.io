@@ -113,12 +113,12 @@ classes:
   -
     href: /life.html
     name: 我的故事
-    describe: 生活就是故事，故事就是生活
+    describe: 分享人生感悟，记录生活点滴
 
   -
     href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
+    name: 架构之路
+    describe: 一个架构师的成长历程
 
 
 # ---------------- #
@@ -137,9 +137,9 @@ side_bar_repo_limit: 6 # Number of repos to show
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax,MongoDB, Redis,Boostrap]
+skill_software_keywords: [Java,Python,C++,Design Patterns,Mysql,Redis,MongoDB,Kafka,RabbitMQ,Mycat,Nginx,FastDFS]
+skill_j2ee_keywords: [Spring, SpringMVC,SpringBoot,SpringCloud,Struct, Hibernet, MyBatis,JSP]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax,Boostrap,Angular.js,Vue,ReactNative.js]
 skill_mobile_app_keywords: [vuejs, hyhird app]
 
 
