@@ -9,4 +9,4 @@ css: ['blog-page.css']
 permalink: /category
 ---
 
-{% include category.html param="category" variable-param='ELK' %}
+{% include category.html %}
