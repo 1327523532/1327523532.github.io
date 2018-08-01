@@ -72,6 +72,10 @@ navs:
     label: Archives
 
   -
+    href: /timeline.html
+    label: Timeline
+
+  -
     href: /open-source.html
     label: Open-Source
 
@@ -90,10 +94,6 @@ labels:
   -
     href: /jvm.html
     name: JVM
-
-  -
-    href: /timeline.html
-    name: Timeline
 
   -
     href: /blog.html
