@@ -53,7 +53,7 @@ syntax_highlighter_opts:
    coderay_line_numbers:  nil
 
 # Pagination
-paginate: 10
+paginate: 5
 paginate_path: 'page:num'
 
 # Navigation. If you do not like these modules, just remove them :D
@@ -127,7 +127,7 @@ classes:
 subscribe_rss: /feed.xml
 
 # Sidebar to show popular repo
-side_bar_repo_limit: 6 # Number of repos to show
+side_bar_repo_limit: 3 # Number of repos to show
 
 # Google Analytics
 # analytics :
