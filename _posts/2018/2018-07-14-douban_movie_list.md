@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 豆瓣电影Top250
-categories: life
+category: life
 tags: [movie]
 excerpt: scrapy学习，那些不容错过的好电影 !
 keywords: movie
