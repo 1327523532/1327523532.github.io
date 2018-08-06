@@ -2,7 +2,7 @@
 layout: page
 title: All articles are here
 titlebar: archives
-subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="https://1327523532.github.io/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; <a href ="https://1327523532.github.io/life.html"><font color="#EB9439">故事</font></a>&nbsp;&nbsp; <a href ="https://1327523532.github.io/jvm.html"><font color="#23527C">JVM</font></a>&nbsp;&nbsp; <a href ="https://1327523532.github.io/elk.html"><font color="#1E90FF">ELK</font></a>
+subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="https://1327523532.github.io/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; <a href ="https://1327523532.github.io/life.html"><font color="#EB9439">故事</font></a>&nbsp;&nbsp; <a href ="https://1327523532.github.io/ai.html"><font color="#23527C">AI</font></a>&nbsp;&nbsp; <a href ="https://1327523532.github.io/elk.html"><font color="#1E90FF">ELK</font></a>
 menu: archives
 css: ['blog-page.css']
 permalink: /archives.html
