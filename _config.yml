@@ -92,8 +92,12 @@ navs:
 labels:
 
   -
-    href: /jvm.html
-    name: JVM
+    href: /ai.html
+    name: AI
+
+  -
+    href: /elk.html
+    name: ELK
 
   -
     href: /blog.html

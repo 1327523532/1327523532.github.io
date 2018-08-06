@@ -2,7 +2,7 @@
 layout: page
 title: AI资源整合
 titlebar: ai
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 一起学习AI吧！
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; AI,让世界更美好！
 menu: AI
 css: ['blog-page.css']
 permalink: /ai
