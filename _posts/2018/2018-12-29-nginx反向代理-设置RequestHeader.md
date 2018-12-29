@@ -7,19 +7,19 @@ excerpt: nginx反向代理-设置RequestHeader !
 keywords: nginx
 ---
 
-# 1、问题描述
+## 1、问题描述
 
-## 问题
+### 问题
     问题描述：IE8无法传递header,需要通过nginx反向代理动态设置header;
 
-## 目标
+### 目标
     实际请求：http://10.120.113.72:8083/mdm-customer-bpportal-bff/v2/customers/0101542015613182?appkey=17CFCFE82A824259A81D7D945E8225D7&authkey=302839345e127977.1545287395360
     
     nginx转发：https://api-dev.unifiedcloud.lenovo.com/mdm-customer-bpportal-bff/v2/customers/0101542015613182?appkey=17CFCFE82A824259A81D7D945E8225D7&authkey=302839345e127977.1545287395360
 
 
-# 2、解决方案
-## nginx完整配置如下：
+## 2、解决方案
+### nginx完整配置如下：
 
 ```
 server{
@@ -53,7 +53,7 @@ server{
 }
 ```
 
-## 核心配置点：
+### 核心配置点：
 ```
 proxy_set_header   tenantId   27;
 proxy_set_header   MSP-AppKey $arg_appkey;
