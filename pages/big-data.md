@@ -1,11 +1,11 @@
 ---
 layout: page
 title: AI资源整合
-titlebar: ai
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; AI,让世界更美好！
-menu: AI
+titlebar: BigData
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; BigData,让世界更美好！
+menu: BigData
 css: ['blog-page.css']
-permalink: /ai
+permalink: /big-data
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /ai
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='AI' %}
+                {% if post.category=='BigData' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
