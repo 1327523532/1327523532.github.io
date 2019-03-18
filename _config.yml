@@ -68,16 +68,20 @@ navs:
     label: AI
 
   -
+    href: /big-data.html
+    label: BigData
+
+  -
+    href: /open-source.html
+    label: Open-Source
+
+  -
     href: /archives.html
     label: Archives
 
   -
     href: /timeline.html
     label: Timeline
-
-  -
-    href: /open-source.html
-    label: Open-Source
 
   -
     href: /link.html
@@ -94,6 +98,10 @@ labels:
   -
     href: /ai.html
     name: AI
+
+  -
+    href: /big-data.html
+    label: BigData
 
   -
     href: /elk.html
