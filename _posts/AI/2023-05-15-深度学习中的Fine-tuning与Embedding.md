@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI 资源整合
+title: AI-深度学习中的Fine-tuning与Embedding
 category: AI
 tags: [AI]
 excerpt: 专注于AI学习与总结 !
